@@ -1,3 +1,9 @@
+/*
+ * Above average is kattis problem
+ * that takes in C number of rows and N number of scores
+ *       for each row followed by an int between 0-100
+ * It then prints out the percentage of scores above the average for that row
+*/
 import java.util.Scanner;
 import java.util.Vector;
 
